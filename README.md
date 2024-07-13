@@ -3,8 +3,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img alihgn="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-132&label=Profile%20views&color=0e75b6&style=flat" alt="prince-132" /> </p>
-
 <p align="left"> <a href="https://twitter.com/sngyanendra23" target="blank"><img src="https://img.shields.io/twitter/follow/sngyanendra23?logo=twitter&style=for-the-badge" alt="sngyanendra23" /></a> </p>
 
 - 🌱 I’m currently learning **React, Express**
